@@ -57,14 +57,14 @@ Importancia en las organizaciones:
         <img src= "https://github.com/user-attachments/assets/789491b8-1b4a-44eb-82ac-9c28a5c2e118" width="200" height="200"><br><strong>Juan Pablo Cristancho</strong><br>
           <a href= "linkedin_link_profile"><img src= "logo_linkedin" style="width:20px;">
           </a>
-          <a href= "github_link_profile"><img src= "logo_github" style="width:20px;">
+          <a href= "github_link_profile"><img src= "https://github.com/marco11235813/Proyecto-Codo_a_Codo/blob/main/assets/github.png" style="width:20px;">
           </a>
       </td>
       <td align= "center">
         <img src= "https://avatars.githubusercontent.com/u/106486985?s=400&u=f2b5a4953b674b71e5df9e4c71c89ee2ae75fa65&v=4" width="200" height="200"><br><strong>Marco Caro</strong><br>
           <a href= "linkedin_link_profile"><img src= "logo_linkedin" style="width:20px;">
           </a>
-          <a href= "github_link_profile"><img src= "logo_github" style="width:20px;">
+          <a href= "github_link_profile"><img src= "https://github.com/marco11235813/Proyecto-Codo_a_Codo/blob/main/assets/github.png" style="width:20px;">
           </a>
       </td>
     </tr>  
@@ -77,14 +77,14 @@ Importancia en las organizaciones:
         <img src="https://avatars.githubusercontent.com/u/106486985?s=400&u=f2b5a4953b674b71e5df9e4c71c89ee2ae75fa65&v=4" width="200" height="200"><br><strong>Marco Caro</strong><br>
           <a href= "linkedin_link_profile"><img src= "logo_linkedin" style="width:20px;">
           </a>
-          <a href= "github_link_profile"><img src= "logo_github" style="width:20px;">
+          <a href= "github_link_profile"><img src= "https://github.com/marco11235813/Proyecto-Codo_a_Codo/blob/main/assets/github.png" style="width:20px;">
           </a>
       </td>
       <td align= "center">
         <img src= "https://avatars.githubusercontent.com/u/106486985?s=400&u=f2b5a4953b674b71e5df9e4c71c89ee2ae75fa65&v=4" width="200" height="200"><br><strong>Marco Caro</strong><br>
           <a href= "linkedin_link_profile"><img src= "logo_linkedin" style="width:20px;">
           </a>
-          <a href= "github_link_profile"><img src= "logo_github" style="width:20px;">
+          <a href= "github_link_profile"><img src= "https://github.com/marco11235813/Proyecto-Codo_a_Codo/blob/main/assets/github.png" style="width:20px;">
           </a>
       </td>
     </tr>  
