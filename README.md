@@ -44,7 +44,7 @@ Importancia en las organizaciones:
 <div>
 
 <!-- primera fila -->
-  <table>
+  <table align= "center">
     <tr>
       <td align= "center">
         <img src= "https://avatars.githubusercontent.com/u/106486985?s=400&u=f2b5a4953b674b71e5df9e4c71c89ee2ae75fa65&v=4" width="200" height="200"><br><strong>Marco Caro</strong><br>
